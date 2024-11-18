@@ -1,0 +1,12 @@
+Things to do in order of priority:
+1. find out how sentiment analysis works in practice (BERT)
+2. reasearch some APIS for stock
+3. figure out webscraping headlines
+
+In essence, how my program will work:
+obtain headlines
+give headlines to sentiment analysis program
+obtain a sentiment
+track short term movements in stock
+see if there is any statistical correlation between these two
+plot potential correlation or lack thereof
